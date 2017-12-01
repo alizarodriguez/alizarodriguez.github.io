@@ -10,6 +10,6 @@ Camera Effects
 
 This is my Camera Effects Project. 
 
-![picture_title](picture filename?raw=true "Optional Title") 
+![christmas tree](https://github.com/alizarodriguez/alizarodriguez.github.io/blob/master/christmas%20tree.PNG?raw=true "Optional Title") 
 
 ***
